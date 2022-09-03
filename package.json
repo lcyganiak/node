@@ -1,0 +1,24 @@
+{
+  "name": "lukasz",
+  "version": "1.0.0",
+  "description": "projekt node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcyganiak/node.git"
+  },
+  "author": "lc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcyganiak/node/issues"
+  },
+  "homepage": "https://github.com/lcyganiak/node#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  }
+}
